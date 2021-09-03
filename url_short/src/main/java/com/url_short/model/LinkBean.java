@@ -1,9 +1,5 @@
 package com.url_short.model;
 
-<<<<<<< HEAD
-///////////// CLASSE DE MODELO  //////////////
-=======
->>>>>>> branch 'master' of https://github.com/wagnerazvdo/Url_shortener.git
 public class LinkBean {
 	 
 	private int id;
