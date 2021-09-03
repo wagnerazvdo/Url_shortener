@@ -1,12 +1,18 @@
 package com.url_short.persistence;
 
 import java.sql.Connection;
+<<<<<<< HEAD
 
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
 /////// CLASSE DE ACESSO AO BANCO DE DADOS (DATA ACCESS OBJECT) ///////
+=======
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+>>>>>>> branch 'master' of https://github.com/wagnerazvdo/Url_shortener.git
 
 public class DAO {
 	
