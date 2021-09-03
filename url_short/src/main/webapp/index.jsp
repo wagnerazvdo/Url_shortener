@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <%@page import="com.url_short.model.LinkBean"%>
 <%@page import="com.url_short.persistence.LinkDAO"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
@@ -87,17 +87,5 @@
 					</tbody>
 				</table>
 			</div>
-=======
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Url Shortener</title>
-</head>
-<body>
-	
->>>>>>> branch 'master' of https://github.com/wagnerazvdo/Url_shortener.git
 </body>
 </html>
